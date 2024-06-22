@@ -1,0 +1,15 @@
+C:\Users\juliusbenson\src\croniclers\croniclers\bin\Debug\net6.0\croniclers.exe
+C:\Users\juliusbenson\src\croniclers\croniclers\bin\Debug\net6.0\croniclers.deps.json
+C:\Users\juliusbenson\src\croniclers\croniclers\bin\Debug\net6.0\croniclers.runtimeconfig.json
+C:\Users\juliusbenson\src\croniclers\croniclers\bin\Debug\net6.0\croniclers.dll
+C:\Users\juliusbenson\src\croniclers\croniclers\bin\Debug\net6.0\croniclers.pdb
+C:\Users\juliusbenson\src\croniclers\croniclers\obj\Debug\net6.0\croniclers.csproj.AssemblyReference.cache
+C:\Users\juliusbenson\src\croniclers\croniclers\obj\Debug\net6.0\croniclers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juliusbenson\src\croniclers\croniclers\obj\Debug\net6.0\croniclers.AssemblyInfoInputs.cache
+C:\Users\juliusbenson\src\croniclers\croniclers\obj\Debug\net6.0\croniclers.AssemblyInfo.cs
+C:\Users\juliusbenson\src\croniclers\croniclers\obj\Debug\net6.0\croniclers.csproj.CoreCompileInputs.cache
+C:\Users\juliusbenson\src\croniclers\croniclers\obj\Debug\net6.0\croniclers.dll
+C:\Users\juliusbenson\src\croniclers\croniclers\obj\Debug\net6.0\refint\croniclers.dll
+C:\Users\juliusbenson\src\croniclers\croniclers\obj\Debug\net6.0\croniclers.pdb
+C:\Users\juliusbenson\src\croniclers\croniclers\obj\Debug\net6.0\croniclers.genruntimeconfig.cache
+C:\Users\juliusbenson\src\croniclers\croniclers\obj\Debug\net6.0\ref\croniclers.dll
